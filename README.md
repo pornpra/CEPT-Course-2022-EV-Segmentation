@@ -1,1 +1,1 @@
-Public EV dataset from Georgia Tech, Atlanta, USA
+Public EV dataset from Georgia Institute of Technology, Atlanta, USA
